@@ -1,2 +1,2 @@
 # React-CeckPoint
-Checkpoint assignment for React
+Checkpoint assignment for the react course on codédex
